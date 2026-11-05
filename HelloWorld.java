@@ -6,6 +6,6 @@ public class HelloWorld {
     {
         // Prints "Hello, World" to the terminal window.
         
-        System.out.println("Je M'appelle Moi");
+        System.out.println("Nolan bomb");
     }
 }
